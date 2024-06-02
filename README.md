@@ -1,5 +1,3 @@
-# amazonbestsellerbooks_analysis
-
 # Amazon Bestselling Books Analysis
 
 ## Project Overview
